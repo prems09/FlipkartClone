@@ -170,7 +170,7 @@ nav {
 
 }
 
-/* .dropdown-content a:hover {background-color: #ddd;} */
+.dropdown-content a:hover {background-color: #cbc8c8;}
 
 .dropdown:hover .dropdown-content {
     display: block;
